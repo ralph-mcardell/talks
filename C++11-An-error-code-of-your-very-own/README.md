@@ -10,3 +10,7 @@ https://github.com/ralph-mcardell/article-cxx11-exception-support-examples
 
 ## Copyright
 Copyright (c) 2017 Ralph E. McArdell
+
+## License
+Creative Commons Attribution + ShareAlike (CC BY-SA)
+( https://creativecommons.org/licenses/by-sa/4.0/legalcode )
